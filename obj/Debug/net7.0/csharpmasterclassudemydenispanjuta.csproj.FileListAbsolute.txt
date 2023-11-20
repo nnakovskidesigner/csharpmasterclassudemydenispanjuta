@@ -1,0 +1,14 @@
+C:\Users\nakov\Documents\GitHub\csharpmasterclassudemydenispanjuta\bin\Debug\net7.0\csharpmasterclassudemydenispanjuta.exe
+C:\Users\nakov\Documents\GitHub\csharpmasterclassudemydenispanjuta\bin\Debug\net7.0\csharpmasterclassudemydenispanjuta.deps.json
+C:\Users\nakov\Documents\GitHub\csharpmasterclassudemydenispanjuta\bin\Debug\net7.0\csharpmasterclassudemydenispanjuta.runtimeconfig.json
+C:\Users\nakov\Documents\GitHub\csharpmasterclassudemydenispanjuta\bin\Debug\net7.0\csharpmasterclassudemydenispanjuta.dll
+C:\Users\nakov\Documents\GitHub\csharpmasterclassudemydenispanjuta\bin\Debug\net7.0\csharpmasterclassudemydenispanjuta.pdb
+C:\Users\nakov\Documents\GitHub\csharpmasterclassudemydenispanjuta\obj\Debug\net7.0\csharpmasterclassudemydenispanjuta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nakov\Documents\GitHub\csharpmasterclassudemydenispanjuta\obj\Debug\net7.0\csharpmasterclassudemydenispanjuta.AssemblyInfoInputs.cache
+C:\Users\nakov\Documents\GitHub\csharpmasterclassudemydenispanjuta\obj\Debug\net7.0\csharpmasterclassudemydenispanjuta.AssemblyInfo.cs
+C:\Users\nakov\Documents\GitHub\csharpmasterclassudemydenispanjuta\obj\Debug\net7.0\csharpmasterclassudemydenispanjuta.csproj.CoreCompileInputs.cache
+C:\Users\nakov\Documents\GitHub\csharpmasterclassudemydenispanjuta\obj\Debug\net7.0\csharpmasterclassudemydenispanjuta.dll
+C:\Users\nakov\Documents\GitHub\csharpmasterclassudemydenispanjuta\obj\Debug\net7.0\refint\csharpmasterclassudemydenispanjuta.dll
+C:\Users\nakov\Documents\GitHub\csharpmasterclassudemydenispanjuta\obj\Debug\net7.0\csharpmasterclassudemydenispanjuta.pdb
+C:\Users\nakov\Documents\GitHub\csharpmasterclassudemydenispanjuta\obj\Debug\net7.0\csharpmasterclassudemydenispanjuta.genruntimeconfig.cache
+C:\Users\nakov\Documents\GitHub\csharpmasterclassudemydenispanjuta\obj\Debug\net7.0\ref\csharpmasterclassudemydenispanjuta.dll
